@@ -46,10 +46,12 @@ public class Excercise_2 {
 
 
         public String getFirstNameC(){
+            return this.firstName;
+        }
 
-
-
+        public String getLastName() {
+            return lastName;
+        }
     }
-}
 
 }
